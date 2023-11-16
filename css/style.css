@@ -256,7 +256,10 @@ margin: 0px;
 .activites{
     padding-top: 60px;
 }
-
+.activites h2 {
+    padding-left: 10px;
+    padding-bottom: 30px;
+}
 .card3 {
     display: flex;
     flex-direction: column;
